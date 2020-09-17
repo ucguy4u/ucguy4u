@@ -10,6 +10,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play edm
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 ### Spotify Playing 🎧
 #[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
