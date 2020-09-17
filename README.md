@@ -87,9 +87,9 @@ No Activity tracked this Week
 <!-- BLOG-POST-LIST:START -->
 - [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
 - [Take Charge of Your Life-Goals (Brian Tracy)](https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2)
-- [Answer by Uday Chauhan for powershell/sqlplus error SP2-0042: unknown command " ■@" - rest of line ignored](https://stackoverflow.com/questions/11631901/powershell-sqlplus-error-sp2-0042-unknown-command-rest-of-line-ignored/63575761#63575761)
 - [Run browser silently](https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2)
 - [Blueprints for the soul](https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2)
+- [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium Activity
