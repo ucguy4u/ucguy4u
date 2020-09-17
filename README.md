@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play edm
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)]
 
 <!--
 ### Spotify Playing 🎧
