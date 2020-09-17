@@ -78,11 +78,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
+- [Take Charge of Your Life-Goals (Brian Tracy)](https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2)
 - [Answer by Uday Chauhan for powershell/sqlplus error SP2-0042: unknown command " ■@" - rest of line ignored](https://stackoverflow.com/questions/11631901/powershell-sqlplus-error-sp2-0042-unknown-command-rest-of-line-ignored/63575761#63575761)
-- [Data extraction using c#](https://stackoverflow.com/questions/62826648/data-extraction-using-c-sharp)
-- [Answer by Uday Chauhan for How do I set system proxy on OS (Windows)?](https://stackoverflow.com/questions/62813126/how-do-i-set-system-proxy-on-os-windows/62813211#62813211)
-- [Answer by Uday Chauhan for Importing python-pptx: ModuleNotFoundError: No module named 'pptx'](https://stackoverflow.com/questions/53599384/importing-python-pptx-modulenotfounderror-no-module-named-pptx/62250079#62250079)
-- [Answer by Uday Chauhan for How to get specific value from ArrayList in POJO in java](https://stackoverflow.com/questions/62035753/how-to-get-specific-value-from-arraylist-in-pojo-in-java/62035840#62035840)
+- [Run browser silently](https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2)
+- [Blueprints for the soul](https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium Activity
