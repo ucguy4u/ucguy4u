@@ -86,8 +86,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 # Medium Activity
-<!-- Medium:START -->
-<!-- Medium:END -->
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
@@ -98,9 +98,6 @@
 - [Answer by Uday Chauhan for How to get specific value from ArrayList in POJO in java](https://stackoverflow.com/questions/62035753/how-to-get-specific-value-from-arraylist-in-pojo-in-java/62035840#62035840)
 <!-- STACKOVERFLOW:END -->
 
-# StackExhange Activity
-<!-- STACKEXCHANGE:START -->
-<!-- STACKEXCHANGE:END -->
 
 
 <details>
