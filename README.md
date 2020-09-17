@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play edm
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
+
 
 ### activity
 <!--START_SECTION:waka-->
@@ -100,7 +100,7 @@ No Activity tracked this Week
 - [Answer by Uday Chauhan for How to get specific value from ArrayList in POJO in java](https://stackoverflow.com/questions/62035753/how-to-get-specific-value-from-arraylist-in-pojo-in-java/62035840#62035840)
 <!-- STACKOVERFLOW:END -->
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
