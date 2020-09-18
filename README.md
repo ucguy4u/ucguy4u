@@ -18,14 +18,7 @@
 
 
 
-### activity
-<!--START_SECTION:waka-->
-```text
-Week: 10 September, 2020 - 17 September, 2020
 
-
-```
-<!--END_SECTION:waka-->
 
 ### Connect with me:
 
@@ -120,6 +113,14 @@ Week: 10 September, 2020 - 17 September, 2020
 <!-- STACKOVERFLOW:END -->
 </details>
 
+### activity
+<!--START_SECTION:waka-->
+```text
+Week: 10 September, 2020 - 17 September, 2020
+
+
+```
+<!--END_SECTION:waka-->
 # Currently Listening on spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
 
