@@ -91,13 +91,7 @@ Week: 10 September, 2020 - 17 September, 2020
 
 # Medium posts
 
-<!--<!-- MEDIUM:START -->
-- [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
-- [Take Charge of Your Life-Goals (Brian Tracy)](https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2)
-- [Run browser silently](https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2)
-- [Blueprints for the soul](https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2)
-- [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
-<!-- MEDIUM:END -->
+<!--<!-- MEDIUM:START -->Sat Sep 12 2020 8:34 AM Java: Build Automation with Maven https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2Tue Aug 25 2020 1:52 PM Take Charge of Your Life-Goals (Brian Tracy) https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2Tue Jul 28 2020 2:43 AM Run browser silently https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2Wed Jul 15 2020 3:50 AM Blueprints for the soul https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2Sat Jun 20 2020 2:09 PM Exercises That Are Easy On Your Joints for Rheumatoid Arthritis https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2<!-- MEDIUM:END -->
 
 
 # StackOverflow Activity
