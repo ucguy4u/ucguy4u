@@ -53,7 +53,7 @@
 <br />
 
 # 📕 Latest Blog Posts
-# WhatTheHack 
+### WhatTheHack 
 <!--<!-- blogspot:START -->
 - [Online Code Editors](https://whatdehack.blogspot.com/2020/04/online-code-editors.html)
 - [Kafka GUI for topics, topics data, consumers group, schema registry, connect and more...](https://whatdehack.blogspot.com/2020/04/kafka-gui-for-topics-topics-data.html)
@@ -62,7 +62,7 @@
 - [Building components separately in maven (Advanced Reactor)](https://whatdehack.blogspot.com/2020/01/building-components-separately-in-maven.html)
 <!-- blogspot:END -->
 
-# Medium posts
+### Medium posts
 
 <!--<!-- MEDIUM:START -->
 - [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
@@ -72,10 +72,7 @@
 - [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
-<!--
 ### 📺 Latest YouTube Videos
--->
-
 <!-- YOUTUBE:START -->
 - [MegaMixx.FullSet.DEC2019.DJUCGUY4U](https://www.youtube.com/watch?v=qouhHgrlPJk)
 - [MegaMixx.2.Ft.Extruminators](https://www.youtube.com/watch?v=QzpPvMRFKAw)
@@ -89,7 +86,6 @@
 
 <details>
     <summary>:zap: # StackOverflow Activity</summary>
-
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by Uday Chauhan for powershell/sqlplus error SP2-0042: unknown command " ■@" - rest of line ignored](https://stackoverflow.com/questions/11631901/powershell-sqlplus-error-sp2-0042-unknown-command-rest-of-line-ignored/63575761#63575761)
