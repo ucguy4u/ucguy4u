@@ -52,23 +52,6 @@
 <br />
 <br />
 
-
-<!--
-### 📺 Latest YouTube Videos
--->
-
-<!-- YOUTUBE:START -->
-- [MegaMixx.FullSet.DEC2019.DJUCGUY4U](https://www.youtube.com/watch?v=qouhHgrlPJk)
-- [MegaMixx.2.Ft.Extruminators](https://www.youtube.com/watch?v=QzpPvMRFKAw)
-- [MegaMixx.Ft.Extruminators](https://www.youtube.com/watch?v=zfJJ0OURz3Y)
-- [Chhaiya chhaiya club mix](https://www.youtube.com/watch?v=IHm94YKuk4E)
-- [Taki Taki Vs Lamborghini Ft Extruminators](https://www.youtube.com/watch?v=_7J6h2j5WpE)
-<!-- YOUTUBE:END -->
-<!--
-➡️ [more videos...](https://youtube.com/codestackr)
--->
-
-
 # 📕 Latest Blog Posts
 # WhatTheHack 
 <!--<!-- blogspot:START -->
@@ -88,6 +71,21 @@
 - [Blueprints for the soul](https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2)
 - [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
+
+<!--
+### 📺 Latest YouTube Videos
+-->
+
+<!-- YOUTUBE:START -->
+- [MegaMixx.FullSet.DEC2019.DJUCGUY4U](https://www.youtube.com/watch?v=qouhHgrlPJk)
+- [MegaMixx.2.Ft.Extruminators](https://www.youtube.com/watch?v=QzpPvMRFKAw)
+- [MegaMixx.Ft.Extruminators](https://www.youtube.com/watch?v=zfJJ0OURz3Y)
+- [Chhaiya chhaiya club mix](https://www.youtube.com/watch?v=IHm94YKuk4E)
+- [Taki Taki Vs Lamborghini Ft Extruminators](https://www.youtube.com/watch?v=_7J6h2j5WpE)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC9LO9K-7uBTihd2aMV-NHKg)
+
 
 <details>
     <summary>:zap: # StackOverflow Activity</summary>
