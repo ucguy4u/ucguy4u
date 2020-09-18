@@ -1,5 +1,4 @@
-<!-- <!-- MEDIUM::START -->
-<!-- <!-- MEDIUM::END -->
+
 
 ### Hi there, I'm Uday - aka [ucgu4yu][website] 👋
 
@@ -91,13 +90,6 @@ Week: 10 September, 2020 - 17 September, 2020
 # 📕 Latest Blog Posts
 
 # Medium posts
-<!-- BLOG-POST-LIST:START -->
-- [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
-- [Take Charge of Your Life-Goals (Brian Tracy)](https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2)
-- [Run browser silently](https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2)
-- [Blueprints for the soul](https://medium.com/@chauhan.s.uday26/blueprints-for-the-soul-741e3fce8fc7?source=rss-461e766564c8------2)
-- [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
-<!-- BLOG-POST-LIST:END -->
 
 <!--<!-- MEDIUM:START -->
 - [Java: Build Automation with Maven](https://medium.com/@chauhan.s.uday26/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
