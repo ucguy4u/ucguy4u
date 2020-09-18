@@ -102,7 +102,9 @@
 ```text
 Week: 10 September, 2020 - 17 September, 2020
 
-
+Other        2 hrs 16 mins   ███████████████████████▓░   94.57 % 
+JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 
