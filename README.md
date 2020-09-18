@@ -51,7 +51,7 @@
 
 <br />
 <br />
-<a href="https://www.buymeacoffee.com/ucguy4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
+
 
 # 📕 Latest Blog Posts
 ### :notebook: WhatTheHack 
@@ -105,7 +105,11 @@ Week: 10 September, 2020 - 17 September, 2020
 
 ```
 <!--END_SECTION:waka-->
-# Currently Listening on spotify
+
+<a href="https://www.buymeacoffee.com/ucguy4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a> 
+
+
+### Uday is Currently Listening on spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
 
 
