@@ -107,8 +107,10 @@ Week: 10 September, 2020 - 17 September, 2020
 - [Exercises That Are Easy On Your Joints for Rheumatoid Arthritis](https://medium.com/@chauhan.s.uday26/exercises-that-are-easy-on-your-joints-for-rheumatoid-arthritis-95a26775f583?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
+<details>
+    <summary>:zap: # StackOverflow Activity</summary>
 
-# StackOverflow Activity
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Uday Chauhan for powershell/sqlplus error SP2-0042: unknown command " ■@" - rest of line ignored](https://stackoverflow.com/questions/11631901/powershell-sqlplus-error-sp2-0042-unknown-command-rest-of-line-ignored/63575761#63575761)
 - [Data extraction using c#](https://stackoverflow.com/questions/62826648/data-extraction-using-c-sharp)
@@ -116,17 +118,11 @@ Week: 10 September, 2020 - 17 September, 2020
 - [Answer by Uday Chauhan for Importing python-pptx: ModuleNotFoundError: No module named 'pptx'](https://stackoverflow.com/questions/53599384/importing-python-pptx-modulenotfounderror-no-module-named-pptx/62250079#62250079)
 - [Answer by Uday Chauhan for How to get specific value from ArrayList in POJO in java](https://stackoverflow.com/questions/62035753/how-to-get-specific-value-from-arraylist-in-pojo-in-java/62035840#62035840)
 <!-- STACKOVERFLOW:END -->
+</details>
 
 # Currently Listening on spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-<!--START_SECTION:activity-->
-
-</details>
 
 [website]: https://ucguy4u.github.io
 [twitter]: https://twitter.com/ucguy4u
