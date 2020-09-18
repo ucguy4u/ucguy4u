@@ -14,3 +14,4 @@ jobs:
           feed_list: "https://medium.com/feed/@chauhan.s.uday26"
           comment_tag_name: "MEDIUM"
           disable_sort: false
+          template:  $date $title $url  
