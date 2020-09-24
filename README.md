@@ -100,7 +100,7 @@
 ### activity
 <!--START_SECTION:waka-->
 ```text
-Week: 15 September, 2020 - 22 September, 2020
+Week: 16 September, 2020 - 23 September, 2020
 
 Other        12 hrs 52 mins  ███████████████████▒░░░░░   77.71 % 
 Java         3 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
