@@ -102,8 +102,8 @@
 ```text
 Week: 19 September, 2020 - 26 September, 2020
 
-Other   20 hrs 28 mins  █████████████████████▓░░░   86.99 % 
-Java    3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other   20 hrs 17 mins  █████████████████████▓░░░   86.89 % 
+Java    3 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 <!--END_SECTION:waka-->
 
