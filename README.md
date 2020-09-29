@@ -98,8 +98,8 @@
 </details>
 
 ###Currently Reading
-<!--<!-- GoodReads:START -->
-<!-- GoodReads:END -->
+<!-- <!-- GoodReads::START -->
+<!-- <!-- GoodReads::END -->
 
 ### Activity
 <!--START_SECTION:waka-->
