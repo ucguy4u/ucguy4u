@@ -100,6 +100,11 @@
 ### Currently Reading
 
 <!-- GOODREADS:START -->
+- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/3571049055?utm_medium=api&utm_source=rss)
+- [Goals!: How to Get Everything You Want Faster Than You Ever Thought Possible](https://www.goodreads.com/review/show/3571046571?utm_medium=api&utm_source=rss)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/3571045844?utm_medium=api&utm_source=rss)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/review/show/3571041699?utm_medium=api&utm_source=rss)
+- [The Five Dysfunctions of a Team: A Leadership Fable](https://www.goodreads.com/review/show/3566890289?utm_medium=api&utm_source=rss)
 <!-- GOODREADS:END -->
 
 ### Activity
