@@ -98,7 +98,7 @@
 </details>
 
 ###Currently Reading
-<!-- GoodReads:START -->
+<!--<!-- GoodReads:START -->
 <!-- GoodReads:END -->
 
 ### Activity
