@@ -97,9 +97,9 @@
 <!-- STACKOVERFLOW:END -->
 </details>
 
-###Currently Reading
+### Currently Reading
 <!-- <!-- GoodReads:START -->
-<!-- <!-- GoodReads:END -->
+<!-- GoodReads:END -->
 
 ### Activity
 <!--START_SECTION:waka-->
