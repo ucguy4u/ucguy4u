@@ -113,7 +113,9 @@
 ```text
 Week: 24 September, 2020 - 01 October, 2020
 
-Other   15 hrs 56 mins  █████████████████████████   100.00 % 
+Other        11 hrs 59 mins  ████████████████████████░   96.50 % 
+JavaScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
