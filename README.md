@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2020 - 15 October, 2020
+Week: 09 October, 2020 - 16 October, 2020
 
 Other   21 hrs 51 mins  █████████████████████▓░░░   86.31 % 
 Java    3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
