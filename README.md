@@ -77,11 +77,11 @@
 ### :bulb: Medium posts
 
 <!--<!-- MEDIUM:START -->
+- [Being Professional Developers — Do No Harm to Code Structure](https://medium.com/developers-coffee/being-professional-developers-do-no-harm-to-code-structure-91055b0ed4c3?source=rss-461e766564c8------2)
 - [Use Visual Studio Code like a pro!!!](https://medium.com/@chauhan.s.uday26/ctrl-shift-f-find-in-files-1d91e2c53227?source=rss-461e766564c8------2)
 - [Java Lambda Expressions](https://medium.com/swlh/java-lambda-expressions-bec4390bce6e?source=rss-461e766564c8------2)
 - [Java: Build Automation With Maven](https://medium.com/swlh/java-build-automation-with-maven-3c5d27801192?source=rss-461e766564c8------2)
 - [Take Charge of Your Life-Goals (Brian Tracy)](https://medium.com/@chauhan.s.uday26/take-charge-of-your-life-goals-brian-tracy-e184bee7d460?source=rss-461e766564c8------2)
-- [Run browser silently](https://medium.com/@chauhan.s.uday26/run-browser-silently-4abf175dc2d5?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
 ### 📺 Latest YouTube Videos
