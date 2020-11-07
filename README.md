@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2020 - 05 November, 2020
+Week: 30 October, 2020 - 06 November, 2020
 
 Java   51 mins         ██████████████░░░░░░░░░░░   56.63 % 
 SQL    26 mins         ███████▒░░░░░░░░░░░░░░░░░   29.80 % 
