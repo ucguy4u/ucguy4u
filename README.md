@@ -77,11 +77,11 @@
 ### :bulb: Medium posts
 
 <!--<!-- MEDIUM:START -->
+- [Being Professional Developers — Ongoing formation, Collaboration and Mentoring](https://medium.com/developers-coffee/being-professional-developers-ongoing-formation-collaboration-and-mentoring-6c818e298b20?source=rss-461e766564c8------2)
 - [Being Professional Developers — Know Your Field](https://medium.com/developers-coffee/being-professional-developers-know-your-field-f6d0d135cde4?source=rss-461e766564c8------2)
 - [Being Professional Developers — Work Ethics](https://medium.com/developers-coffee/being-professional-developers-work-ethics-28976ef12f59?source=rss-461e766564c8------2)
 - [Being Professional Developers — Do No Harm to Code Structure](https://medium.com/developers-coffee/being-professional-developers-do-no-harm-to-code-structure-91055b0ed4c3?source=rss-461e766564c8------2)
 - [Use Visual Studio Code like a pro!!!](https://medium.com/@chauhanuday/ctrl-shift-f-find-in-files-1d91e2c53227?source=rss-461e766564c8------2)
-- [Java Lambda Expressions](https://medium.com/swlh/java-lambda-expressions-bec4390bce6e?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
 ### 📺 Latest YouTube Videos
