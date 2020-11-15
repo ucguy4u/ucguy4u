@@ -111,13 +111,12 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2020 - 13 November, 2020
+Week: 07 November, 2020 - 14 November, 2020
 
-Java         1 hr 1 min      ███████████████████▓░░░░░   78.46 % 
-Markdown     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-XML          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Batchfile    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown    8 mins          ████████████▒░░░░░░░░░░░░   49.00 % 
+XML         4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.71 % 
+Java        1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Batchfile   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 ```
 <!--END_SECTION:waka-->
 
