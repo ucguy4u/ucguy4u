@@ -111,7 +111,9 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 12 November, 2020 - 19 November, 2020
+
+Java   1 hr 13 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
