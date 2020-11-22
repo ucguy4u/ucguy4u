@@ -111,9 +111,9 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2020 - 20 November, 2020
+Week: 14 November, 2020 - 21 November, 2020
 
-Java         2 hrs 1 min     █████████████████████████   99.81 % 
+Java         2 hrs 22 mins   █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
 
