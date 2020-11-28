@@ -111,11 +111,11 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2020 - 26 November, 2020
+Week: 20 November, 2020 - 27 November, 2020
 
-Java         2 hrs 40 mins   ████████████████████████░   95.55 % 
-Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Java         1 hr 52 mins    ███████████████████████▒░   93.97 % 
+Git Config   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
 <!--END_SECTION:waka-->
 
