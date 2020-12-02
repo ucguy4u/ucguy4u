@@ -111,10 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
-
-Java         47 mins         ████████████████████████░   96.48 % 
-Properties   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
