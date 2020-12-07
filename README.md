@@ -67,11 +67,11 @@
 # 📕 Latest Blog Posts
 ### :notebook: WhatTheHack 
 <!--<!-- blogspot:START -->
+- [What happens when you type a URL into your browser and press Enter.](https://whatdehack.blogspot.com/2020/12/what-happens-when-you-type-url-into.html)
 - [Online Code Editors](https://whatdehack.blogspot.com/2020/04/online-code-editors.html)
 - [Kafka GUI for topics, topics data, consumers group, schema registry, connect and more...](https://whatdehack.blogspot.com/2020/04/kafka-gui-for-topics-topics-data.html)
 - [Install Firefox developer Edition in Ubuntu](https://whatdehack.blogspot.com/2020/02/install-firefox-developer-edition-in.html)
 - [Windows can not detect USB](https://whatdehack.blogspot.com/2020/01/windows-can-not-detect-usb.html)
-- [Building components separately in maven (Advanced Reactor)](https://whatdehack.blogspot.com/2020/01/building-components-separately-in-maven.html)
 <!-- blogspot:END -->
 
 ### :bulb: Medium posts
