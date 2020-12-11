@@ -111,7 +111,11 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 December, 2020 - 10 December, 2020
+
+Docker       54 mins         █████████████████████░░░░   83.88 % 
+Java         4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+PHP          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 <!--END_SECTION:waka-->
 
