@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2020 - 11 December, 2020
+Week: 05 December, 2020 - 12 December, 2020
 
 Docker       54 mins         █████████████████████▓░░░   86.61 % 
 PHP          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
