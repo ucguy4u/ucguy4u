@@ -111,9 +111,10 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 11 December, 2020 - 18 December, 2020
+Week: 12 December, 2020 - 19 December, 2020
 
-Java         1 hr 4 mins     ████████████████████████▒   97.83 % 
+Java         1 hr 4 mins     █████████████████▒░░░░░░░   68.78 % 
+Python       27 mins         ███████▒░░░░░░░░░░░░░░░░░   29.68 % 
 ```
 <!--END_SECTION:waka-->
 
