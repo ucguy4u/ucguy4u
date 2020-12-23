@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
 Python       27 mins         ███████████████░░░░░░░░░░   60.19 % 
 Java         17 mins         █████████▓░░░░░░░░░░░░░░░   38.02 % 
