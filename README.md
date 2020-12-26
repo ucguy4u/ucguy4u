@@ -111,12 +111,12 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2020 - 24 December, 2020
+Week: 18 December, 2020 - 25 December, 2020
 
-Python       27 mins         ██████████▒░░░░░░░░░░░░░░   40.97 % 
-SQL          16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Java         12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Properties   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Python       27 mins         ████████████▒░░░░░░░░░░░░   49.16 % 
+SQL          16 mins         ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+Properties   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Java         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 ```
 <!--END_SECTION:waka-->
 
