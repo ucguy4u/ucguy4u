@@ -111,13 +111,11 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
+Week: 23 December, 2020 - 30 December, 2020
 
-SQL          16 mins         ████████▒░░░░░░░░░░░░░░░░   33.98 % 
-YAML         14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.79 % 
-Properties   10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 % 
-Java         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+YAML    14 mins         ██████████████████░░░░░░░   71.43 % 
+Java    3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Other   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
 ```
 <!--END_SECTION:waka-->
 
