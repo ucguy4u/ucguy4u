@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
 Java    38 mins         █████████████████▒░░░░░░░   69.56 % 
 YAML    14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
