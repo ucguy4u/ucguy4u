@@ -77,11 +77,11 @@
 ### :bulb: Medium posts
 
 <!--<!-- MEDIUM:START -->
+- [Being Professional Developers- Practicing](https://medium.com/developers-coffee/being-professional-developers-practicing-c211a4059648?source=rss-461e766564c8------2)
 - [Docker : What are containers?](https://medium.com/developers-coffee/docker-what-are-containers-36e399049679?source=rss-461e766564c8------2)
 - [Being Professional Developers- Test Driven Development](https://medium.com/developers-coffee/being-professional-developers-test-driven-development-ace940424a1?source=rss-461e766564c8------2)
 - [Being Professional Developers —Know Your Domain/Employer/Customer and Humility](https://medium.com/developers-coffee/being-professional-developers-know-your-domain-employer-customer-and-humility-27076eee47c4?source=rss-461e766564c8------2)
 - [How to submit a story to Developers Coffee?](https://medium.com/developers-coffee/how-to-submit-a-story-to-developers-coffee-a2af5e2916f9?source=rss-461e766564c8------2)
-- [A Call for Great Stories](https://medium.com/developers-coffee/a-call-for-great-stories-77a98d89baad?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
 ### 📺 Latest YouTube Videos
