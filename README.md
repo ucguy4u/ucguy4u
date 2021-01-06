@@ -111,11 +111,11 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-Java    38 mins         ████████████▒░░░░░░░░░░░░   48.89 % 
-Other   24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.61 % 
-YAML    16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Java    34 mins         ███████████▓░░░░░░░░░░░░░   46.44 % 
+Other   24 mins         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+YAML    16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 % 
 ```
 <!--END_SECTION:waka-->
 
