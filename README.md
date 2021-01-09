@@ -77,11 +77,11 @@
 ### :bulb: Medium posts
 
 <!--<!-- MEDIUM:START -->
+- [Leadership :](https://medium.com/developers-coffee/leadership-faffcfbef21?source=rss-461e766564c8------2)
 - [Docker: Container architecture](https://medium.com/developers-coffee/docker-container-architecture-45febde7e166?source=rss-461e766564c8------2)
 - [Docker: The Moby project, Docker products](https://medium.com/developers-coffee/docker-the-moby-project-docker-products-851b3672f878?source=rss-461e766564c8------2)
 - [Being Professional Developers- Practicing](https://medium.com/developers-coffee/being-professional-developers-practicing-c211a4059648?source=rss-461e766564c8------2)
 - [Docker : What are containers?](https://medium.com/developers-coffee/docker-what-are-containers-36e399049679?source=rss-461e766564c8------2)
-- [Being Professional Developers- Test Driven Development](https://medium.com/developers-coffee/being-professional-developers-test-driven-development-ace940424a1?source=rss-461e766564c8------2)
 <!-- MEDIUM:END -->
 
 ### 📺 Latest YouTube Videos
