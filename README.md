@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 XML          19 mins         █████████████████▓░░░░░░░   70.01 % 
 Properties   7 mins          ███████░░░░░░░░░░░░░░░░░░   28.30 % 
