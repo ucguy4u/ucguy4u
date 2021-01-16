@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2021 - 14 January, 2021
+Week: 08 January, 2021 - 15 January, 2021
 
 Java       16 mins         ██████████████░░░░░░░░░░░   56.33 % 
 Markdown   12 mins         ███████████░░░░░░░░░░░░░░   43.67 % 
