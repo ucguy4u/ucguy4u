@@ -111,10 +111,9 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
-Markdown   12 mins         ███████████████████░░░░░░   75.49 % 
-Docker     4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Docker   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
