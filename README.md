@@ -111,9 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2021 - 24 January, 2021
-
-Docker   4 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
