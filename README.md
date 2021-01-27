@@ -111,7 +111,10 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 January, 2021 - 26 January, 2021
+
+Java   1 hr 42 mins    ████████████████████░░░░░   80.39 % 
+XML    24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
 ```
 <!--END_SECTION:waka-->
 
