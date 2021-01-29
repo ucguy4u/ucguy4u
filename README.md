@@ -111,12 +111,12 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
-Java         2 hrs 5 mins    ██████████████████▓░░░░░░   74.70 % 
-XML          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Properties   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Java         3 hrs 51 mins   ██████████████████▓░░░░░░   75.29 % 
+XML          37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Properties   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 <!--END_SECTION:waka-->
 
