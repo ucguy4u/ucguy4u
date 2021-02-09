@@ -111,7 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2021 - 07 February, 2021
+Week: 01 February, 2021 - 08 February, 2021
 
 Java         2 hrs 23 mins   █████████████████████▓░░░   86.59 % 
 Properties   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
