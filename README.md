@@ -111,10 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
-
-Java         40 mins         ███████████████████▓░░░░░   78.52 % 
-Properties   10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
