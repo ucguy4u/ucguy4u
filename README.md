@@ -111,9 +111,9 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 07 March, 2021 - 14 March, 2021
+Week: 08 March, 2021 - 15 March, 2021
 
-Java   13 mins         █████████████████████████   100.00 % 
+Java   37 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
