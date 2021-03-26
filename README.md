@@ -111,9 +111,7 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 17 March, 2021 - 24 March, 2021
-
-Java         1 hr 30 mins    ████████████████████████▓   98.69 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
