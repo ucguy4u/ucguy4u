@@ -111,9 +111,9 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2021 - 05 May, 2021
+Week: 29 April, 2021 - 06 May, 2021
 
-Java   40 mins         █████████████████████████   100.00 % 
+Java   1 hr 14 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
