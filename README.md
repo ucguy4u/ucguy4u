@@ -111,7 +111,10 @@
 ### Activity
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 May, 2021 - 14 May, 2021
+
+Java       43 mins         █████████████████████▓░░░   87.31 % 
+Markdown   6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 ```
 <!--END_SECTION:waka-->
 
