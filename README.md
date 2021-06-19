@@ -100,11 +100,11 @@
     <summary>:heavy_check_mark:  StackOverflow Activity</summary>
 
 <!-- STACKOVERFLOW:START -->
-- [“Robo 3T” cannot be opened because the developer cannot be verified](https://stackoverflow.com/questions/67986636/robo-3t-cannot-be-opened-because-the-developer-cannot-be-verified)
+- [Answer by Uday Chauhan for IntelliJ directory little blue dot label in maven](https://stackoverflow.com/questions/27323450/intellij-directory-little-blue-dot-label-in-maven/68038833#68038833)
 - [Answer by Uday Chauhan for “Robo 3T” cannot be opened because the developer cannot be verified](https://stackoverflow.com/questions/67986636/robo-3t-cannot-be-opened-because-the-developer-cannot-be-verified/67986637#67986637)
+- [“Robo 3T” cannot be opened because the developer cannot be verified](https://stackoverflow.com/questions/67986636/robo-3t-cannot-be-opened-because-the-developer-cannot-be-verified)
 - [Answer by Uday Chauhan for How does java.util.HashMap.containsValue() work? What is it's time complexity?](https://stackoverflow.com/questions/55679728/how-does-java-util-hashmap-containsvalue-work-what-is-its-time-complexity/67349761#67349761)
 - [Answer by Uday Chauhan for Remove the one trailing zero for a String datatype](https://stackoverflow.com/questions/67128706/remove-the-one-trailing-zero-for-a-string-datatype/67129418#67129418)
-- [Answer by Uday Chauhan for Error resolving plugin, You must specify a URL for a Maven repository](https://stackoverflow.com/questions/65607194/error-resolving-plugin-you-must-specify-a-url-for-a-maven-repository/65607292#65607292)
 <!-- STACKOVERFLOW:END -->
 </details>
 
