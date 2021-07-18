@@ -100,11 +100,11 @@
     <summary>:heavy_check_mark:  StackOverflow Activity</summary>
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Uday Chauhan for Why is my Linked List not getting printed?](https://stackoverflow.com/questions/68417930/why-is-my-linked-list-not-getting-printed/68418133#68418133)
+- [Answer by Uday Chauhan for Error when executing Java code with nested class](https://stackoverflow.com/questions/68417927/error-when-executing-java-code-with-nested-class/68418013#68418013)
 - [Answer by Uday Chauhan for How to know programmatically if the system is in dual monitor mode?](https://stackoverflow.com/questions/68388089/how-to-know-programmatically-if-the-system-is-in-dual-monitor-mode/68388453#68388453)
 - [Answer by Uday Chauhan for springboot does not connect to localhost:8080 as expect?](https://stackoverflow.com/questions/68314897/springboot-does-not-connect-to-localhost8080-as-expect/68315026#68315026)
 - [Answer by Uday Chauhan for IntelliJ directory little blue dot label in maven](https://stackoverflow.com/questions/27323450/intellij-directory-little-blue-dot-label-in-maven/68038833#68038833)
-- [Answer by Uday Chauhan for “Robo 3T” cannot be opened because the developer cannot be verified](https://stackoverflow.com/questions/67986636/robo-3t-cannot-be-opened-because-the-developer-cannot-be-verified/67986637#67986637)
-- [“Robo 3T” cannot be opened because the developer cannot be verified](https://stackoverflow.com/questions/67986636/robo-3t-cannot-be-opened-because-the-developer-cannot-be-verified)
 <!-- STACKOVERFLOW:END -->
 </details>
 
