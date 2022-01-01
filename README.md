@@ -119,7 +119,7 @@ No Activity tracked this Week
 
 
 ### Uday is Currently Listening on spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=31o553jimycrl3ktur4kd35quxla&redirect=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=YOUR-API)
  
 
 <a href="https://www.buymeacoffee.com/ucguy4u" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
